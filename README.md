@@ -154,7 +154,7 @@ You can see that the device Action Showed  “Allowed” meaning, it delivered.
 
 ![image.png](image%2029.png)
 
-I had add all the artifacts i found during investigation.
+I had to add all the artifacts i found during investigation.
 
 Next, i wrote an analyst note to enable anyone, understand my findings.
 
